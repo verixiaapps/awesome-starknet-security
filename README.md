@@ -55,6 +55,8 @@
 - [StarkRekt](https://starkrekt.com/) - Check and reset their token spending permissions on Starknet.
 - [StarkRevoke](https://www.starkrevoke.com/) - Token revocation tool for Starknet.
 - [Thoth](https://github.com/FuzzingLabs/thoth) - Decompiler and security toolkit.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 
 ## CTFs and Wargames
 
